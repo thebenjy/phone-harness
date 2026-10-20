@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "phone-harness": {
+      "command": "phone-harness-mcp",
+      "args": []
+    }
+  }
+}

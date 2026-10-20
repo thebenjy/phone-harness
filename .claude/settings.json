@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "phone-harness"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__phone-harness__phone_doctor"
+    ]
+  }
+}
